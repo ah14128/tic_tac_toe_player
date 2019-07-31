@@ -1,0 +1,5 @@
+Welcome to Noughts and Crosses. First player is crosses, second player is noughts.
+
+(p1) Cross wins: 0
+(p2) Nought wins: 65809
+Number of Draws: 34191

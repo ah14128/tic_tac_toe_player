@@ -1,0 +1,5 @@
+Welcome to Connect Four
+
+
+Cross wins: 8264
+Nought wins: 1736
